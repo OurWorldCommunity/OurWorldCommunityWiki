@@ -1,6 +1,8 @@
 <!-- _navbar.md -->
-
 * [开始](/)
-* [世界](/world)
-* [经济](/ecs)
-* [服务器事纪](/history)
+- mc服务器
+	* [规则](/mc/rule)
+	* [世界](/mc/world)
+	* [经济](/mc/eco)
+* [社区](/community)
+* [事纪](/history)
