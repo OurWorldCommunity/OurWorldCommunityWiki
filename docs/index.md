@@ -15,3 +15,5 @@ OurWorld由服主smyhw以Minecraft1.7.10版本建立于2018年,
 皮肤站地址：[`https://mcskin.smyhw.online:8080`](https://mcskin.smyhw.online:8080)  
 本wiki地址: [`https://wiki.smyhw.online`](https://wiki.smyhw.online)  
   
+***
+![awa](/img/awa.jpg)
