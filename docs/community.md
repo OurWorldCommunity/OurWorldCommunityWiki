@@ -2,5 +2,4 @@
 
 ---
 
-OurWorld拥有官方社区QQ群，且配备机器人同步服务器与QQ群内聊天内容
-QQ群内还有奆佬&萌新一起交流awa
+我们有一个[论坛](https://bbs.smyhw.online:8080)和一个[QQ群](https://jq.qq.com/?_wv=1027&k=DlCijir0)
