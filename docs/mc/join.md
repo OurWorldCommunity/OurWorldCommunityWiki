@@ -44,5 +44,5 @@
 <br> 
 
 * **社区论坛**  
-我们拥有一个[论坛](https://bbs.smyhw.online:8080)以及一个[在线聊天室](https://bbs.smyhw.online:8080)  
+我们拥有一个[论坛](https://bbs.smyhw.online:8080)以及一个[在线聊天室](https://im.smyhw.online:8080)  
 你可以使用你的游戏ID加上你的登入密码(*皮肤站登入密码*)登入它们 
