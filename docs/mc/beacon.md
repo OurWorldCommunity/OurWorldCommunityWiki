@@ -26,3 +26,26 @@
 * 四级信标,30s益增buff
 
 如果你在传送的时候,背包里有道具 *<亚空间稳定剂>* ,会自动消耗并去除传送debuff
+
+***
+## 合成信标锚定节点
+<details>
+<summary>一级锚定节点:</summary>
+
+![beacon_1.PNG](https://img13.360buyimg.com/ddimg/jfs/t1/193918/4/803/12195/608d6544Eee649d56/f39db1a1e435118a.png)
+</details>
+<details>
+<summary>二级锚定节点:</summary>
+
+![beacon_2.png](https://img12.360buyimg.com/ddimg/jfs/t1/184181/10/1836/13780/608d6544Ea1b130e0/d213012dbe608da9.png)
+</details>
+<details>
+<summary>三级锚定节点:</summary>
+
+![beacon_3.PNG](https://img11.360buyimg.com/ddimg/jfs/t1/193789/27/833/12899/608d6544Ecb20c310/a44ba54e59223100.png)
+</details>
+<details>
+<summary>四级锚定节点:</summary>
+
+![beacon_4.PNG](https://img12.360buyimg.com/ddimg/jfs/t1/172364/39/7353/16686/608d6544E991556e6/e2164ea08f25aeb8.png)
+</details>
