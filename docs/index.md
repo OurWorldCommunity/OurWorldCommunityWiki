@@ -11,7 +11,7 @@ OurWorld由服主smyhw以Minecraft1.7.10版本建立于2018年,
 自开服以来,我们没有更换过周目,一直沿用了老存档
 
 游戏地址：[`mc.smyhw.online`](mc.smyhw.online)  
-服务器状态监测: [`status.smyhw.online`](https://1.ao.smyhw.online/status/)  
+服务器状态监测: [`1.ao.smyhw.online/status/`](https://1.ao.smyhw.online/status/)  
 在线聊天室：[`https://im.smyhw.online:8080`](https://im.smyhw.online:8080)  
 论坛地址：[`https://bbs.smyhw.online:8080`](https://bbs.smyhw.online:8080)  
 皮肤站地址：[`https://mcskin.smyhw.online:8080`](https://mcskin.smyhw.online:8080)  
