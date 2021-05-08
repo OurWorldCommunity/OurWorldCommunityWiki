@@ -1,4 +1,4 @@
-**入服指南**
+**新手指南**
 
 *该指南旨在引导玩家第一次进入服务器*
 
@@ -9,11 +9,12 @@
 ##### 一、获取注册码  
 &nbsp;&nbsp;&nbsp;&nbsp;加入我们的[QQ群](https://jq.qq.com/?_wv=1027&k=DlCijir0)，  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当你的加群申请被接受时，你应该会收到机器人向你私聊发送的注册码(*如果没有，可以私聊群管理员*)  
-&nbsp;&nbsp;&nbsp;&nbsp;这里的邀请码将用于下一步的注册  
+&nbsp;&nbsp;&nbsp;&nbsp;这里的注册码将用于下一步的注册  
 
-##### 二、注册皮肤站  
-&nbsp;&nbsp;&nbsp;&nbsp;在[服务器皮肤站](https://mcskin.smyhw.online:8080)注册  
+##### 二、注册  
+&nbsp;&nbsp;&nbsp;&nbsp;在[服务器用户中心](https://mcskin.smyhw.online:8080)注册  
 * 注册时填写的`游戏内角色名`在注册完成后**不可更改**  
+* 这里的用户名和密码适用于我们的所有平台,包括[论坛](https://bbs.smyhw.online:8080)和[在线聊天室](https://im.smyhw.online:8080)
 
 &nbsp;&nbsp;&nbsp;&nbsp;注意：完成注册后，您需要**退出并重新登入**皮肤站  
 
@@ -21,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;使用你上一步注册时使用的玩家ID启动游戏  
 &nbsp;&nbsp;&nbsp;&nbsp;连接服务器地址:`mc.smyhw.online`  
 &nbsp;&nbsp;&nbsp;&nbsp;这时，你应该会连接到登入服，在聊天栏输入指令`/l <你的密码>`即可登入并自动跳转到主世界  
-&nbsp;&nbsp;&nbsp;&nbsp;*这里的密码是你的皮肤站登入密码*  
+&nbsp;&nbsp;&nbsp;&nbsp;*这里的密码是你上一步注册时使用的密码*  
 
 * *(服务器不限制客户端，你可以使用任何1.12.2客户端登入;一般情况下，我们也不会提供客户端下载)*  
 * *虽然需要注册皮肤站，但服务器并不强制使用Yggdrasil API 认证*  
