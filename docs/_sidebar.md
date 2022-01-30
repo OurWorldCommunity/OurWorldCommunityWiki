@@ -9,3 +9,4 @@
 	* [传送信标](/mc/beacon)
 * [社区](/community)
 * [事纪](/history)
+* [FAQ](/faq)
