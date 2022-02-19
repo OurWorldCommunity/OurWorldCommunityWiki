@@ -8,9 +8,7 @@
 
 ##### 一、获取注册码  
 &nbsp;&nbsp;&nbsp;&nbsp;加入我们的[QQ群](https://jq.qq.com/?_wv=1027&k=DlCijir0),  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当你的加群申请被接受时，你应该会收到机器人向你私聊发送的注册码(*如果没有，可以私聊群管理员*)  
-  
-![演示图片(如果你看到这行字,说明图片失效,麻烦报告管理员)](https://wiki.smyhw.online/img/mc_join_1.png)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当你的加群申请被接受时，你应该会收到带有注册码的邮件(在你的QQ邮箱中)(*如果没有，可以私聊群管理员*)  
 &nbsp;&nbsp;&nbsp;&nbsp;这里的注册码将用于下一步的注册  
 
 ##### 二、注册  
