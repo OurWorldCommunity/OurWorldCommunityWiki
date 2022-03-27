@@ -8,7 +8,9 @@
 
 ##### 一、获取注册码  
 &nbsp;&nbsp;&nbsp;&nbsp;加入我们的[QQ群](https://jq.qq.com/?_wv=1027&k=DlCijir0),  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当你的加群申请被接受时，你应该会收到带有注册码的邮件(在你的QQ邮箱中)(*如果没有，可以私聊群管理员*)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当你的加群申请被接受时，你应该会收到带有注册码的邮件(在你的QQ邮箱中)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*P.S. 如果没有收到，检查一下邮箱垃圾箱(如果还是没有，可以私聊群管理员)*  
+  
 &nbsp;&nbsp;&nbsp;&nbsp;这里的注册码将用于下一步的注册  
 
 ##### 二、注册  
