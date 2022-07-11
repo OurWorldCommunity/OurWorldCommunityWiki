@@ -7,6 +7,6 @@
 	* [经济](/mc/eco)
 	* [指令](/mc/cmd_list)
 	* [传送信标](/mc/beacon)
+    * [FAQ](/mc/faq)
 * [社区](/community)
 * [事纪](/history)
-* [FAQ](/faq)
