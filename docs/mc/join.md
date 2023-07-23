@@ -20,12 +20,12 @@
 ***
 <details>
 <summary>或者，是高♂级玩家嘛?</summary>
-可以向咱发一封邮件(i@smyhw.online)，介绍一下自己，      
-比如博客，Mastodon，github主页，自己的作品之类的w  
-*别忘了带上自己要申明的玩家id*  
+可以向咱发一封邮件(i@smyhw.online)，介绍一下自己，<br> 
+比如博客，Mastodon，github主页，自己的作品之类的w <br> 
+别忘了带上自己要申明的玩家id <br>
 若通过，则一封带有密码的邮件将会被回复至发件邮箱 
  
-当然，这可能不会得到及时的回复，
+不过，这可能不会得到及时的回复！
 </details>
 
 > **id确定后不可修改！！！**
@@ -63,9 +63,14 @@
 若在qq群内申明，则默认邮箱是qq号所对应的qq邮箱，  
 若使用邮件申明，则默认邮箱是发件邮箱
 
-所有的账户操作都应该在[账户矩阵](https://matrix.smyhw.online) (https://matrix.smyhw.online) 中操作
+所有的账户操作都应该在[账户矩阵](https://im.smyhw.online) (https://im.smyhw.online) 中操作
 * 玩家id在申明后**不可**更改
 * 在更改密码/找回密码后，必须退出并重新登入矩阵，否则密码不会生效!
+
+<details>
+<summary>是matrix玩家嘛？</summary>
+接口地址在<code>[matrix.smyhw.online:8448]</code>,任何账户操作都是有效的!
+</details>
 
 ***
 
