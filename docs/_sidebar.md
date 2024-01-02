@@ -8,5 +8,7 @@
 	* [指令](/mc/cmd_list)
 	* [传送信标](/mc/beacon)
     * [FAQ](/mc/faq)
+- HowTo
+	* [更改密码](/howto/change_pwd)
 * [社区及配套设施](/community)
 * [事纪](/history)
