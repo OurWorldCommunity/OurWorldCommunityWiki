@@ -2,11 +2,12 @@
 * [开始](/)
 - mc服务器
 	* [新手指南](/mc/join)
-	* [规则](/mc/rule)
+	* [守则](/mc/rule)
 	* [世界](/mc/world)
 	* [经济](/mc/eco)
 	* [指令](/mc/cmd_list)
 	* [传送信标](/mc/beacon)
+	* [星炬](/mc/astronomican)
     * [FAQ](/mc/faq)
 - HowTo
 	* [更改密码](/howto/change_pwd)

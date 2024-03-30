@@ -75,7 +75,7 @@
 * 玩家id在申明后**不可**更改
 * 在更改密码/找回密码后，必须退出并重新登入矩阵，否则密码不会生效!
 
-这里有一个[简单的教程](/#/howto/change_pwd ':ignore')
+这里有一个[简单的教程](/#/mc/astronomican ':ignore')
 
 <details>
 <summary>是matrix专业用户嘛？</summary>
