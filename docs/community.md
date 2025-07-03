@@ -21,7 +21,7 @@
 
 ---
 
-### 数据统计
+### 数据统计 `已停滞`
 * [players.smyhw.online](https://players.smyhw.online)
 
 这里记录了所有玩家的统计数据  

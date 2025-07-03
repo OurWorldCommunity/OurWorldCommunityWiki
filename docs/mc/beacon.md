@@ -22,31 +22,33 @@
 ***
 ## 信标等级
 传送信标分区若干个等级,对应原版金字塔信标的层级  
-* 一级信标,在传送后,会产生高达十分钟debuff
+* 一级信标,在传送后,会产生高达三十分钟的中毒debuff 
 * 二级信标,30s的debuff
 * 三级信标,没有负面buff
 * 四级信标,30s增益buff
 
 ***
-* 仅四级信标可以锚定在任意世界，其他等级只能锚定在主世界
 
-***
 ## 合成信标锚定节点
+
 <details>
 <summary>一级锚定节点:</summary>
 
 ![beacon_1.PNG](https://img13.360buyimg.com/ddimg/jfs/t1/193918/4/803/12195/608d6544Eee649d56/f39db1a1e435118a.png)
 </details>
+
 <details>
 <summary>二级锚定节点:</summary>
 
 ![beacon_2.png](https://img12.360buyimg.com/ddimg/jfs/t1/184181/10/1836/13780/608d6544Ea1b130e0/d213012dbe608da9.png)
 </details>
+
 <details>
 <summary>三级锚定节点:</summary>
 
 ![beacon_3.PNG](https://img11.360buyimg.com/ddimg/jfs/t1/193789/27/833/12899/608d6544Ecb20c310/a44ba54e59223100.png)
 </details>
+
 <details>
 <summary>四级锚定节点:</summary>
 
