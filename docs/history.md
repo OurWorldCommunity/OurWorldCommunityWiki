@@ -2,7 +2,7 @@
 
 ***
 
-* 2025.7.1 服务器第七次[周年庆](/#/chronicle/anniversary ':ignore')开始
+* 2025.7.1 服务器第七次[周年庆](/#/chronicle/七周年 ':ignore')开始
 
 ***
 
