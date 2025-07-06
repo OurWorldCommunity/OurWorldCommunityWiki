@@ -7,9 +7,9 @@
 	* [指令](/mc/cmd_list)
 	* [*传送信标](/mc/beacon)
 	* [*星炬](/mc/astronomican)
-    * [*库存系统](/mc/pct)
+	* [*库存系统](/mc/pct)
 	* [*结构系统](/mc/eternal_structure_system)
-    * [FAQ](/mc/faq)
+	* [FAQ](/mc/faq)
 - HowTo
 	* [新手指南](/howto/join)
 	* [更改密码](/howto/change_pwd)
