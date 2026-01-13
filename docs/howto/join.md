@@ -3,7 +3,8 @@
 > 该指南旨在引导玩家第一次进入服务器
 
 *很多系统仍处于测试阶段*
-* 如果汝认为某个环节的确出现了错误，欢迎向咱报告(邮箱[i@smyhw.online](mailto:i@smyhw.online))
+* 如果汝认为某个环节的确出现了错误，欢迎向咱报告(邮箱[i@smyhw.online](mailto:i@smyhw.online))  
+*我们的QQ群(773979234)*
 
 
 ## 前提条件
