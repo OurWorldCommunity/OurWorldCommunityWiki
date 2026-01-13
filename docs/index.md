@@ -26,8 +26,9 @@
 ### 加入我们？
 参考[入服手册](/#/howto/join ':ignore')
 
-### 信息公开
+### 相关链接
 
+* 用户中心 -> [openid.smyhw.online](https://openid.smyhw.online/)
 * 玩家信息 -> [players.smyhw.online](https://players.smyhw.online)
 * Github -> [github.com/OurWorldCommunity](https://github.com/OurWorldCommunity/)
 
