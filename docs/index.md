@@ -28,6 +28,7 @@
 
 ### 相关链接
 
+* 论坛(非公开) -> [bbs.smyhw.online](https://bbs.smyhw.online/)
 * 用户中心 -> [openid.smyhw.online](https://openid.smyhw.online/)
 * 玩家信息 -> [players.smyhw.online](https://players.smyhw.online)
 * Github -> [github.com/OurWorldCommunity](https://github.com/OurWorldCommunity/)
