@@ -8,7 +8,7 @@
 
   
 * **长期稳定**  
-从2018年以1.7.10开服，咱已经维持了五年，在可预期的未来里也会继续坚持的！  
+从2018年以1.7.10开服，咱已经维持了八年，在可预期的未来里也会继续坚持的！  
 从1.7.10到现在的1.20.6，历经版本迭代，主世界从没有更换过周目
   
 * **造物保护**  
@@ -28,7 +28,6 @@
 
 ### 相关链接
 
-* 论坛(非公开) -> [bbs.smyhw.online](https://bbs.smyhw.online/)
 * 用户中心 -> [openid.smyhw.online](https://openid.smyhw.online/)
 * 玩家信息 -> [players.smyhw.online](https://players.smyhw.online)
 * Github -> [github.com/OurWorldCommunity](https://github.com/OurWorldCommunity/)
