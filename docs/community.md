@@ -12,6 +12,11 @@
 
 ---
 
+### 用户中心
+* [openid.smyhw.online](https://openid.smyhw.online)
+
+这是用户中心！
+
 ### MATRIX聊天室  
 * [im.smyhw.online](https://im.smyhw.online/#/room/#ow_pub:matrix.smyhw.online)
 
